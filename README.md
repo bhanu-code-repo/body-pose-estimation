@@ -4,6 +4,5 @@ Code repository for estimating human body pose and tract any number of specific 
 
 
 ## Pose Detection Results
-Video Demo 1 | Video Demo 2
-:-: | :-:
-<video src='outputs/boy-test-video-results.mp4' width=180/> | <video src='ouputs/person-push-ups-results.mp4' width=180/> 
+https://user-images.githubusercontent.com/82470970/149617224-ee6e0f03-d259-480f-9c87-59d7817319c3.mp4
+
