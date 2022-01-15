@@ -1,5 +1,5 @@
 # Human Body Pose Estimation and Landmark Tracking
-Code repository for estimating human body pose and tract any number of specific poses out of 33 options
+Code repository for estimating human body pose and tract any body landmark out of 33 options
 
 ## Body Landmark Details
 <img title="Landmarks Details" alt="Python" width="600px" src="https://google.github.io/mediapipe/images/mobile/pose_tracking_full_body_landmarks.png"/>
