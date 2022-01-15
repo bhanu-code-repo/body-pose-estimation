@@ -1,0 +1,16 @@
+{
+  "pose-detection": {
+    "source": {
+      "dir": "inputs",
+      "name": "boy-test-video.mp4",
+      "type": "video"
+    },
+    "landmarks": {
+      "track-landmarks": true,
+      "landmark-point": 14
+    },
+    "results": {
+      "dir": "outputs"
+    }
+  }
+}

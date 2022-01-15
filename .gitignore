@@ -1,0 +1,4 @@
+# ignore pycharm temp directories
+.idea
+utils/__pycache__/
+core/__pycache__/
