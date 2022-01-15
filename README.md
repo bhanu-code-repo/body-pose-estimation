@@ -4,5 +4,4 @@ Code repository for estimating human body pose and tract any number of specific 
 
 
 ## Pose Detection Results
-https://github.com/bhanu-code-repo/body-pose-estimation/blob/main/outputs/boy-test-video-results.mp4 | https://github.com/bhanu-code-repo/body-pose-estimation/blob/main/outputs/person-push-ups-results.mp4
-|--|--|
+https://github.com/bhanu-code-repo/body-pose-estimation/blob/main/outputs/boy-test-video-results.mp4 
